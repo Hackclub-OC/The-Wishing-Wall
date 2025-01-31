@@ -1,6 +1,6 @@
 # The Wishing Wall
 
-![](https://cloud-gxmey2111-hack-club-bot.vercel.app/0prismify-render-1738345753296.png)
+![](https://cloud-7ue0psike-hack-club-bot.vercel.app/0prismify-render-1738346021945.png)
 
 Project by [@Hrichik aka burger](https://github.com/hrichiksite) and [@OC](https://github.com/Gitstar-OC). 
 
